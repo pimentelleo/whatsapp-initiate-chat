@@ -1,7 +1,7 @@
 <template>
   <div>
-    <LayoutHeader />
+    <Header />
     <Nuxt />
-    <LayoutFooter />
+    <Footer />
   </div>
 </template>
