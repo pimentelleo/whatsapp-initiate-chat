@@ -20,6 +20,8 @@ export default {
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
 
+  ssr: true,
+
   server: {
     host: '192.168.1.4', // default: localhost
   },
