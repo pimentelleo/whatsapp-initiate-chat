@@ -1,7 +1,6 @@
 name: ci
 
-on: workflow_dispatch
-
+on: workflow_dispatchssssssssssss
 
 jobs:
   ci:
