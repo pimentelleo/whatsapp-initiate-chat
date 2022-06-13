@@ -1,5 +1,8 @@
 name: ci
 
+on: workflow_dispatch
+
+
 jobs:
   ci:
     runs-on: self-hosted
